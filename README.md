@@ -1,4 +1,9 @@
 ## Hi there 👋
+- My name is Daniella M Yanez and I am a Junior studying Political Science at the University of Notre Dame. My hometown is Austin, TX but enjoy exploring South Bend in my free time.
+- 🌱 I’m currently working on growing my porfolio!
+- 💬 Ask me about my interest in human rights work.
+- 📫 How to reach me: daniellamartinezyanez7@gmail.com
+- ⚡ Fun fact: I can't study without listening to music in a differnet language than the one used in my assignments.
 
 <!--
 **daniella-yanez/daniella-yanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
