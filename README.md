@@ -10,9 +10,9 @@
 -->
 
 
-===========================================
+========================
 Data Science and Machine Learning Projects
-===========================================
+========================
 
 This directory contains a representative sample of many of the data science and machine learning projects that I have worked on throughout the years. These include both work-related projects as well as personal projects. Please refer to table of contents (and the linked sub-directory) for a quick explanation of each project and the relevant skills used. 
 
