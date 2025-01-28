@@ -10,24 +10,23 @@
 -->
 
 
-================================================================================
+===========================================
 Data Science and Machine Learning Projects
-================================================================================
+===========================================
 
 This directory contains a representative sample of many of the data science and machine learning projects that I have worked on throughout the years. These include both work-related projects as well as personal projects. Please refer to table of contents (and the linked sub-directory) for a quick explanation of each project and the relevant skills used. 
 
-.. contents::
-
-Note that the code presented here is formatted as a jupyter notebook using Python 3.8.
-If you want to run this code on your own please check that you are running the correct versions.
+Contents:
+- 
+-
 
 This repository was created by Daniella M Yanez.
 
 ----------------------------------------------------------------------------
 
-################################################################################
+#############################
 Projects Coming Soon
-################################################################################
+#############################
 
 **TLDR**:  
 
@@ -36,22 +35,12 @@ Projects Coming Soon
 **Skills**:  
 
 **Link to Notebook**:
-.. figure:: 
-    :align: right
-    :alt: alternate text
-    :figclass: align-right
     
-.. figure:: 
-    :align: right
-    :alt: alternate text
-    :figclass: align-right
-    
-----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 
-################################################################################
+#############################
 Projects Coming Soon
-################################################################################
+#############################
 
 ## Micro Projects
 
