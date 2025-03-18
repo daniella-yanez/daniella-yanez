@@ -31,7 +31,9 @@ This repository was created by Daniella M Yanez.
 #############################
 Projects 
 #############################
+
 ***Olympic Medalists Data Analysis***
+
 **TLDR**:  This project cleans and analyzes Olympic medalist data using Python. It reshapes the dataset into a tidy format, applies aggregation functions, and visualizes insights with Seaborn and Matplotlib.
 
 **Description**: This project focuses on cleaning, organizing, and analyzing Olympic medalist data using Python. The dataset is reshaped into a tidy format, ensuring that each observational unit has its own table. Data wrangling techniques such as removing duplicates, handling missing values, and extracting relevant features (e.g., gender and sport) are applied.
