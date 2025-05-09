@@ -1,68 +1,77 @@
-## Hi there 👋
-- My name is Daniella M Yanez and I am a Junior studying Political Science at the University of Notre Dame. My hometown is Austin, TX but enjoy exploring South Bend in my free time.
-- 🌱 I’m currently working on growing my porfolio!
-- 💬 Ask me about my interest in human rights work.
-- 📫 How to reach me: daniellamartinezyanez7@gmail.com
-- ⚡ Fun fact: I can't study without listening to music in a differnet language than the one used in my assignments.
+# Daniella Martinez Yanez - Data Scientist | Machine Learning Enthusiast | Aspiring Immigration Attorney
 
-<!--
-**daniella-yanez/daniella-yanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- My name is Daniella M Yanez and I am a Junior studying Political Science at the University of Notre Dame. My hometown is Austin, TX but enjoy exploring South Bend in my free time.
-- 🌱 I’m currently working on growing my porfolio!
-- 💬 Ask me about my interest in human rights work.
-- 📫 How to reach me: daniellamartinezyanez7@gmail.com
-- ⚡ Fun fact: I can't study without listening to music in a differnet language than the one used in my assignments.
--->
+Welcome to my GitHub profile! I am a rising Senior studying Political Science at the University of Notre Dame. I am passionate **Data Scientist** and **Machine Learning Enthusiast** dedicated to leveraging data-driven insights to solve real-world challenges. I specialize in **data analysis**, **machine learning**, and **web development**, with a particular interest in how data science can impact policy and social good, especially in the realm of **immigration law** and **human rights law**.
+
+###  **Skills & Technologies**
+
+- **Data Analysis & Visualization**:  
+  Pandas, Matplotlib, Seaborn, Plotly, SQL  
+- **Machine Learning**:  
+  scikit-learn, TensorFlow (beginner), Supervised Learning, Unsupervised Learning  
+- **Programming Languages**:  
+  Python, SQL  
+- **Web Development & Deployment**:  
+  Streamlit, GitHub Actions  
+- **Version Control**:  
+  Git, GitHub  
+- **Cloud Computing**:  
+  Streamlit Cloud (beginner)  
+- **Data Cleaning**:  
+  Tidy Data principles, Handling Missing Data  
+- **Database Management**:  
+  SQL, SQLite  
+
+---
+
+### **Strategic Projects**
+
+These are some of my key projects showcasing my skills and expertise. Each project is designed to push the boundaries of my knowledge while contributing to real-world applications.
+
+1. **[Tidy Data Project: Data Cleaning & Visualization using Pandas, Seaborn, and Matplotlib](https://github.com/daniella-yanez/Yanez-Data_Science-Portfolio/tree/7a3ab095e865df407cda39b79a3d1b92b8b242d7/TidyData-Project)**  
+   Cleaned and reshaped Olympic medalist data from the 2008 Olympics, demonstrating my ability to turn raw, unstructured data into a tidy format suitable for further analysis and visualization.
+
+2. **[Machine Learning App – Streamlit Deployment: Interactive ML Models with Performance Metrics](https://github.com/daniella-yanez/Yanez-Data_Science-Portfolio/tree/53a4b48a459b8be10ed9a885d07a14c0d7084c89/MLStreamlitApp)**  
+   Built a web application where users can upload datasets, train classification models (Logistic Regression, Decision Tree, KNN), and evaluate performance metrics (accuracy, classification reports, confusion matrices). The app also allows users to adjust model hyperparameters and visualize real-time results.
+
+3. **[Unsupervised Learning Explorer: Clustering & Dimensionality Reduction Web App](https://github.com/daniella-yanez/Yanez-Data_Science-Portfolio/tree/53a4b48a459b8be10ed9a885d07a14c0d7084c89/MLUnsupervisedApp)**  
+   Created an interactive app for exploring unsupervised learning techniques such as **K-Means Clustering**, **Hierarchical Clustering**, and **Principal Component Analysis (PCA)**. The app allows users to upload datasets and interactively explore clustering methods and dimensionality reduction.
 
 
-Data Science and Machine Learning Projects
-========================
+---
 
-This directory contains a representative sample of many of the data science and machine learning projects that I have worked on throughout the years. These include both work-related projects as well as personal projects. Please refer to table of contents (and the linked sub-directory) for a quick explanation of each project and the relevant skills used. 
 
-Contents:
-- TidyData-Project
--
+### **Current Learning Focus**
 
-This repository was created by Daniella M Yanez.
+- Deepening my knowledge of **Deep Learning** and **Natural Learning Proessing** for future projects.
+- Exploring **Ethics in Data Science** and how it influences the development of data-driven models in law and social policy.
 
-----------------------------------------------------------------------------
+---
 
-#############################
-Projects 
-#############################
+###  **Pinned Repositories**
 
-***Olympic Medalists Data Analysis***
+The following repositories represent my most impactful work to date. These showcase a broad range of data science and machine learning applications.
 
-**TLDR**:  This project cleans and analyzes Olympic medalist data using Python. It reshapes the dataset into a tidy format, applies aggregation functions, and visualizes insights with Seaborn and Matplotlib.
+- **[Tidy Data Project: Data Cleaning & Visualization](https://github.com/daniella-yanez/Yanez-Data_Science-Portfolio/tree/7a3ab095e865df407cda39b79a3d1b92b8b242d7/TidyData-Project)**
+- **[Machine Learning App: Streamlit Deployment](https://github.com/daniella-yanez/Yanez-Data_Science-Portfolio/tree/53a4b48a459b8be10ed9a885d07a14c0d7084c89/MLStreamlitApp)**
+- **[Unsupervised Learning Explorer: Clustering & PCA Web App](https://github.com/daniella-yanez/Yanez-Data_Science-Portfolio/tree/53a4b48a459b8be10ed9a885d07a14c0d7084c89/MLUnsupervisedApp)**
 
-**Description**: This project focuses on cleaning, organizing, and analyzing Olympic medalist data using Python. The dataset is reshaped into a tidy format, ensuring that each observational unit has its own table. Data wrangling techniques such as removing duplicates, handling missing values, and extracting relevant features (e.g., gender and sport) are applied.
+---
 
-To explore insights, pivot tables and aggregation functions are used to summarize key trends, such as medal distribution by different attributes. Additionally, a heatmap visualization is created using Seaborn to highlight patterns in the data, such as medal distribution across different categories. This project demonstrates data cleaning, transformation, and visualization techniques, making it a valuable exercise in working with real-world sports data.
+### **Future Goals**
 
-This project demonstrates data cleaning, transformation, and visualization techniques, making it a valuable exercise in working with real-world sports data.
+I aim to:
 
-**Skills**: Data Tidying 
+- Contribute to open-source data science projects.
+- Enhance my cloud computing skills.
+- Focus on predictive analytics and classification models for **social good** and **policy impact**, especially with the goal of working for a human rights organization.
 
-**Link to Notebook**: 
-    
-----------------------------------------------------------------------------
+---
 
-#############################
-Projects Coming Soon
-#############################
+### 📞 **Contact Me**
 
-## Micro Projects
+Feel free to reach out for collaborations, project discussions, or general inquiries.
 
-    
-----------------------------------------------------------------------------
+- 📧 **Email**: [daniellamartinezyanez7@gmail.com](mailto:daniellamartinezyanez7@gmail.com)
+- 🌐 **LinkedIn**: [linkedin.com/in/daniellamartinezyanez](www.linkedin.com/in/daniella-martinez-yanez)
 
-## Core Competencies
-
-- **Methodologies**: 
-- **Languages**: Python (Pandas), Stata
-- **Tools**: MS Excel
-
-## Certificates
-
-    
+---
